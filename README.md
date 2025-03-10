@@ -1,4 +1,4 @@
-# Telegrambot-for-Instagram
+1# Telegrambot-for-Instagram
 
 This telegram bot is used for downloading public posts from instagram and everyone's DP. (Private Profile pictures also)
 
